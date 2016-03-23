@@ -13,4 +13,8 @@ In the VM you will also find pre-installed:
 * Atom (with several plugins),
 * PyCharm (Community version)
 
-Uncompress the files, add it to your Virtual Box or vmware, and have fun.
+Uncompress the files, import the VM to your Virtual Box or vmware, and have fun.
+
+To download the files git is recommended:
+
+`git clone https://github.com/Dept-Informatics-University-of-Piraeus/WebProgramming_VM.git`
